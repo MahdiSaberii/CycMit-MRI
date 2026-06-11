@@ -7,9 +7,6 @@
   <a href="https://icml.cc/virtual/2026/poster/64452">
     <img src="https://img.shields.io/badge/ICML-2026-00BFFF">
   </a>
-  <img src="https://img.shields.io/badge/Task-Adversarial%20Mitigation-blue">
-  <img src="https://img.shields.io/badge/Application-MRI%20Reconstruction-purple">
-  <img src="https://img.shields.io/badge/Framework-PyTorch-ee4c2c">
 </p>
 
 
