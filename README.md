@@ -11,4 +11,4 @@
 </p>
 
 
-<img src="Results/combined.gif" width="300">
+<img src="Results/combined.gif">
