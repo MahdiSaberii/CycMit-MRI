@@ -13,3 +13,17 @@
 This repository provides the official implementation of our proposed cyclic mitigation strategy for adversarially robust computational MRI. 
 
 <img src="Results/combined.gif">
+
+
+
+## 📝 BibTeX
+
+```bibtex
+@inproceedings{saberi2026training,
+  title     = {Training-Free Defense Against Adversarial Attacks in Deep Learning MRI Reconstruction},
+  author    = {Saberi, Mahdi and Zhang, Chi and Ak{\c{c}}akaya, Mehmet},
+  booktitle = {International Conference on Machine Learning},
+  year      = {2026},
+  url       = {[https://openreview.net/forum?id=vcdMBXeiet](https://openreview.net/forum?id=NUDNFusCDu&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions))}
+}
+```
