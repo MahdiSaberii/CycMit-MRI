@@ -10,5 +10,6 @@
   </a>
 </p>
 
-This repository provides the official implementation of our proposed cyclic mitigation strategy for adversarially robust computational MRI.
+This repository provides the official implementation of our proposed cyclic mitigation strategy for adversarially robust computational MRI. 
+
 <img src="Results/combined.gif">
