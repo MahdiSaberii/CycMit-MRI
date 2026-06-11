@@ -1,3 +1,3 @@
 # [ICML'26] Training-Free Adversarial Mitigation for Computational MRI
 
-<img src="mitigated_recon.gif" width="900">
+<img src="Results/combined.gif" width="900">
