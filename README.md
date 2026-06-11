@@ -10,5 +10,6 @@
   </a>
 </p>
 
+This repository contains the official implementation of **[Training-Free Mitigation of Adversarial Attacks on Deep Learning-Based MRI Reconstruction](https://arxiv.org/abs/2501.01908)**.
 
 <img src="Results/combined.gif">
