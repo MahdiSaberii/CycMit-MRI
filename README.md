@@ -60,7 +60,6 @@ pip install -r requirements.txt
 ```
 
 ## Repository Structure
-## Repository Structure
 
 The pretrained checkpoint is provided in the `BestModel/` folder. A sample MRI dataset and the required sampling masks are provided in the `data/` folder.
 
