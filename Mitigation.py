@@ -7,7 +7,7 @@ import numpy as np
 from src.Utils import *
 import scipy.io as sio
 from DataLoader import DataLoaderSL as DL
-from src.unrolled_network import UnrolledNet
+from src.Unrolled_Network import UnrolledNet
 
 if __name__ == '__main__':
 
