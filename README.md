@@ -23,7 +23,7 @@ The method treats the attacked measurement as an input to be corrected at test t
 Large-scale experiments show that the proposed method substantially reduces adversarial artifacts across datasets, attack types, attack strengths, and reconstruction networks. This repository currently includes the image-domain attack demo, with additional code to be added later.
 
 <p align="center">
-  <img src="Results/GitHub.png" width="100%">
+  <img src="Results/Results.png" width="100%">
 </p>
 
 ## Quick Start
