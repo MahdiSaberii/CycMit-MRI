@@ -77,13 +77,15 @@ CycMit-MRI/
 │   ├── delta2.mat
 │   └── delta3.mat
 │
+├── src/
+│   ├── DF.py
+│   ├── ResNet.py
+│   ├── unrolled_network.py
+│   └── Utils.py
+│
 ├── Config.yaml
 ├── mitigation.py
 ├── DataLoader.py
-├── unrolled_network.py
-├── ResNet.py
-├── DF.py
-├── Utils.py
 └── requirements.txt
 ```
 
