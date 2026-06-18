@@ -97,7 +97,7 @@ Experiment settings are defined in `Config.yaml`, including the attack strength,
 To run the image-domain mitigation demo with the desired setup:
 
 ```bash
-python mitigation.py
+python Mitigation.py
 ```
 
 When applying the method to your own data or reconstruction model, these hyperparameters, such as noise jittering level, step size, projection radius, and number of iterations should be carefully tuned to achieve the best mitigation performance.
