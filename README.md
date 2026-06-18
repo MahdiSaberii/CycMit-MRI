@@ -20,7 +20,7 @@ Training-free adversarial mitigation is an inference-time defense method for imp
 
 The method treats the attacked measurement as an input to be corrected at test time by minimizing a cyclic measurement-consistency objective within a small neighborhood of the corrupted input. This allows the reconstruction to move away from adversarial perturbations while preserving consistency with the acquired k-space data.
 
-Large-scale experiments show that the proposed method substantially reduces adversarial artifacts across datasets, attack types, attack strengths, and reconstruction networks. The public code includes demos for image-domain attacks, k-space attacks, adaptive attacks, and realistic impulse-like perturbations related to herringbone artifacts.
+Large-scale experiments show that the proposed method substantially reduces adversarial artifacts across datasets, attack types, attack strengths, and reconstruction networks. The public code includes demos for image-domain attacks.
 
 <p align="center">
   <img src="Results/Method_comparison_1.jpg" width="100%">
