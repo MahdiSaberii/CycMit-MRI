@@ -59,6 +59,37 @@ pip install torch==2.2.1+cu121 --index-url https://download.pytorch.org/whl/cu12
 pip install -r requirements.txt
 ```
 
+## Repository Structure
+## Repository Structure
+
+The pretrained checkpoint is provided in the `BestModel/` folder. A sample MRI dataset and the required sampling masks are provided in the `data/` folder.
+
+```text
+CycMit-MRI/
+│
+├── BestModel/
+│   └── checkpoint.pth
+│
+├── data/
+│   ├── kneePD.mat
+│   ├── omega_mask.mat
+│   ├── delta1.mat
+│   ├── delta2.mat
+│   └── delta3.mat
+│
+├── Config.yaml
+├── mitigation.py
+├── DataLoader.py
+├── unrolled_network.py
+├── ResNet.py
+├── DF.py
+├── Utils.py
+└── requirements.txt
+```
+
+`BestModel/checkpoint.pth` contains the pretrained reconstruction network used in the demo. The `data/` folder contains one sample case, `kneePD.mat`, along with the required masks used for the image-domain attack and cyclic mitigation demo.
+
+
 ## 📝 BibTeX
 
 ```bibtex
