@@ -1,6 +1,6 @@
 import torch
-from DF import DF_2d
-from ResNet import ResNet
+from src.DF import DF_2d
+from src.ResNet import ResNet
 
 
 class UnrolledNet(torch.nn.Module):
