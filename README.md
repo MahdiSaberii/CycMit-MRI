@@ -59,20 +59,6 @@ pip install torch==2.2.1+cu121 --index-url https://download.pytorch.org/whl/cu12
 pip install -r requirements.txt
 ```
 
-### 5. Verify installation
-
-```bash
-python -c "import torch; print(torch.__version__); print(torch.cuda.is_available()); print(torch.version.cuda)"
-```
-
-Expected output:
-
-```bash
-2.2.1+cu121
-True
-12.1
-```
-
 ## 📝 BibTeX
 
 ```bibtex
