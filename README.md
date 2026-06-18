@@ -23,7 +23,7 @@ The method treats the attacked measurement as an input to be corrected at test t
 Large-scale experiments show that the proposed method substantially reduces adversarial artifacts across datasets, attack types, attack strengths, and reconstruction networks. The public code includes demos for image-domain attacks, k-space attacks, adaptive attacks, and realistic impulse-like perturbations related to herringbone artifacts.
 
 <p align="center">
-  <img src="Results/Method_comparison_1.png" width="95%">
+  <img src="Results/Method_comparison_1.jpg" width="95%">
 </p>
 
 ## 📝 BibTeX
