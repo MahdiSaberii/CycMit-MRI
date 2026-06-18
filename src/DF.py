@@ -1,5 +1,5 @@
 import torch
-from Utils import *
+from src.Utils import *
 
 class DF_2d(torch.nn.Module):
     def __init__(self, mu, iterations=10):
