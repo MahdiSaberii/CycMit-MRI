@@ -26,6 +26,9 @@ Large-scale experiments show that the proposed method substantially reduces adve
   <img src="Results/Method_comparison_1.jpg" width="100%">
 </p>
 
+## Quick Start
+Note: This code was tested with `torch==2.2.1+cu121`. 
+
 ## 📝 BibTeX
 
 ```bibtex
