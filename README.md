@@ -29,11 +29,49 @@ Large-scale experiments show that the proposed method substantially reduces adve
 ## Quick Start
 Note: This code was tested with `torch==2.2.1+cu121`. 
 
+## Installation
+
+**Note:** This code was tested with `torch==2.2.1+cu121`.
+
 ### 1. Clone this repository
 
 ```bash
 git clone https://github.com/MahdiSaberii/CycMit-MRI.git
 cd CycMit-MRI
+```
+
+### 2. Create and activate conda environment
+
+```bash
+conda create -n cycmit_mri python=3.10 -y
+conda activate cycmit_mri
+```
+
+### 3. Install PyTorch
+
+```bash
+pip install torch==2.2.1+cu121 --index-url https://download.pytorch.org/whl/cu121
+```
+
+### 4. Install remaining requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Verify installation
+
+```bash
+python -c "import torch; print(torch.__version__); print(torch.cuda.is_available()); print(torch.version.cuda)"
+```
+
+Expected output:
+
+```bash
+2.2.1+cu121
+True
+12.1
+```
 
 ## 📝 BibTeX
 
