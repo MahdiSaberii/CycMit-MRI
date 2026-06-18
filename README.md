@@ -72,11 +72,11 @@ CycMit-MRI/
 ├── src/
 │   ├── DF.py
 │   ├── ResNet.py
-│   ├── unrolled_network.py
+│   ├── Unrolled_Network.py
 │   └── Utils.py
 │
 ├── Config.yaml
-├── mitigation.py
+├── Mitigation.py
 ├── DataLoader.py
 └── requirements.txt
 ```
