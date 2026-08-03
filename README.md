@@ -85,8 +85,9 @@ CycMit-MRI/
 ├── DataLoader.py
 └── requirements.txt
 ```
-
+<p align="justify">
 `BestModel/checkpoint.pth` contains the pretrained reconstruction network used in the demo. The `data/` folder contains one sample case, `kneePD.mat`, along with the required masks used for the image-domain attack and cyclic mitigation demo.
+</p>
 
 ## Configuration and Usage
 
@@ -97,8 +98,9 @@ To run the image-domain mitigation demo with the desired setup:
 ```bash
 python Mitigation.py
 ```
-
+<p align="justify">
 When applying the method to your own data or reconstruction model, these hyperparameters, such as noise jittering level, step size, projection radius, and number of iterations should be carefully tuned to achieve the best mitigation performance.
+</p>
 
 ## 📝 BibTeX
 
