@@ -8,11 +8,17 @@ This repository provides the official implementation of our proposed cyclic miti
 <img src="Results/combined.gif">
 
 ## Abstract
+<p align="justify">
 Training-free adversarial mitigation is an inference-time defense method for improving the robustness of deep learning MRI reconstruction models without retraining.
+</p>
 
+<p align="justify">
 The method treats the attacked measurement as an input to be corrected at test time by minimizing a cyclic measurement-consistency objective within a small neighborhood of the corrupted input. This allows the reconstruction to move away from adversarial perturbations while preserving consistency with the acquired k-space data.
+</p>
 
+<p align="justify">
 Large-scale experiments show that the proposed method substantially reduces adversarial artifacts across datasets, attack types, attack strengths, and reconstruction networks. This repository currently includes the image-domain attack demo, with additional code to be added later.
+</p>
 
 <p align="center">
   <img src="Results/Main_Results.png" width="100%">
