@@ -25,10 +25,6 @@ Large-scale experiments show that the proposed method substantially reduces adve
 </p>
 
 ## Quick Start
-Note: This code was tested with `torch==2.2.1+cu121`. 
-
-## Installation
-
 **Note:** This code was tested with `torch==2.2.1+cu121`.
 
 ### 1. Clone this repository
