@@ -104,7 +104,7 @@ If you find this repository useful in your research, please consider citing our 
 
 ```bibtex
 @article{saberi2026training,
-  title={Training-Free Defense Against Adversarial Attacks in Deep Learning MRI Reconstruction},
+  title={Training-Free Adversarial Mitigation for Computational MRI},
   author={Saberi, Mahdi and Zhang, Chi and Ak{\c{c}}akaya, Mehmet},
   journal={Proc. Int. Conf. Mach. Learn.},
   year={2026}
