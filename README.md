@@ -98,10 +98,10 @@ When applying the method to your own data or reconstruction model, these hyperpa
 If you find this repository useful in your research, please consider citing our work:
 
 ```bibtex
-@article{saberi2026training,
+@inproceedings{saberi2026training,
   title={Training-Free Adversarial Robustness in Computational MRI},
   author={Saberi, Mahdi and Zhang, Chi and Ak{\c{c}}akaya, Mehmet},
-  journal={Proc. Int. Conf. Mach. Learn.},
+  booktitle={Proc. Int. Conf. Mach. Learn.},
   year={2026}
 }
 ```
