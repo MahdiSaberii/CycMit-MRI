@@ -105,7 +105,7 @@ If you find this repository useful in your research, please consider citing our 
 @inproceedings{saberi2026training,
   title     = {Training-Free Adversarial Robustness in Computational {MRI}},
   author    = {Saberi, Mahdi and Zhang, Chi and Ak{\c{c}}akaya, Mehmet},
-  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
+  booktitle = {Proc. Int. Conf. Mach. Learn.},
   series    = {Proceedings of Machine Learning Research},
   volume    = {306},
   pages     = {106681--106710},
